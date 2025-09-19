@@ -1,0 +1,5 @@
+Bookcase Blue 144.210007 758965 65
+Armchair Black 85.000000 358963 90
+Computer_Desk Black 300.000000 643289 700
+Keyboard Silver 98.900002 123456 456
+Tv_Unit Black 400.000000 122411 100
